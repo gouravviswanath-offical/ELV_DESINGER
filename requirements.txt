@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+ultralytics
+opencv-python-headless
+networkx
+ezdxf
+PyMuPDF
